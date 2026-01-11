@@ -1,0 +1,5 @@
+{
+  "name": "ChefGenie",
+  "description": "An AI-powered recipe finder and meal planner. Discover hundreds of lunch and dinner options, filter by ingredients and time, and automatically generate shopping lists.",
+  "requestFramePermissions": []
+}
